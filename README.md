@@ -1,4 +1,5 @@
 Title: Financial Market Analysis: Stochastic Models and Agent-Based Modeling
+
 Description: This project analyzes the financial market using stochastic models and agent-based modeling. It showcases how different types of agents, such as fundamentalists, chartists, and noise traders, interact within the market.
 
 Features:
